@@ -1,0 +1,43 @@
+Question_ID,Answer
+q1a,25
+q1b,0
+q2a,Beauvais (7.7)
+q2b,Nice (14.2)
+q2c,Brest (15.5)
+q2d,Ajaccio (22.5)
+q2e,Ajaccio (515.8)
+q2f,Biarritz (1819.4)
+q2g,Brest (1363.2)
+q2h,Ajaccio (2854.5)
+q3a,3.2536
+q3b,4.3158
+q3c,82209.5331
+q3d,198650.1258
+q4a,9.7880
+q4b,9.2000
+q4c,1.8038
+q5a,1881.1080
+q5b,1694.0000
+q5c,445.7018
+q6a,Temp_max_C & Ensoleillement_h (0.95)
+q6b,Precipitation_mm & Ensoleillement_h (-0.33)
+q6c,Precipitation_mm & Temp_min_C (-0.01)
+q7,Heatmap 'correlation_matrix_cities.png' generated.
+q8a,71.5443
+q8b,24.9279
+q9,Plot 'correlation_circle.png' generated.
+q10,Plot 'pca_biplot.png' generated.
+q11,Plot 'paris_temp_2024.png' generated.
+q12a,5
+q12b,0.9745
+q12c,0.9808
+q12d,58.0200
+q12e,-4.5800
+q13a,58.0200
+q13b,50.5200
+q14a,0.0011
+q14b,Yes
+q15,Plot 'paris_temp_2023_2024.png' generated.
+q16a,4095
+q16b,10
+q17,0.3163
